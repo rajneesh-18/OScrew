@@ -90,32 +90,30 @@ export default function Home() {
         <div className="flex lg:flex-row flex-col items-center justify-between gap-4">
           <div className="lg:w-1/3 rounded-2xl bg-gray-800 shadow-2xl border-2 border-olive px-8 py-6 flex flex-col items-center justify-center">
             <Image
-              src={femaleAvt2}
-              alt="girl with coffee"
-              className="md:w-44 w-32"
-            />
-            <h4 className="font-semibold text-xl mt-3 text-sage-light">
-              Emily Smith
-            </h4>
-            <p className="truncate ...">Open Source Contributor</p>
-            <p className="mt-3 text-justify text-gray-300">
-              Lorem ipsum dolor sit amet ctetur adipisicing elit. Eius optio
-              eligendi quod nisi...
-            </p>
-          </div>
-          <div className="lg:w-1/3 rounded-2xl bg-gray-800 shadow-2xl border-2 border-olive px-8 py-6 flex flex-col items-center justify-center">
-            <Image
               src={maleAvt}
               alt="girl with coffee"
               className="md:w-44 w-32"
             />
             <h4 className="font-semibold text-xl mt-3 text-sage-light">
-              John Smith
+              Rajneesh Dojo
             </h4>
-            <p className="truncate ...">Open Source Contributor</p>
+            <p className="truncate ...">Open Source DevRel</p>
             <p className="mt-3 text-justify text-gray-300">
-              Lorem ipsum dolor sit amet ctetur adipisicing elit. Eius optio
-              eligendi quod nisi...
+            Open source enthusiast & DevRel. Building communities & fostering developer love for OScrew & LinksHub.
+            </p>
+          </div>
+          <div className="lg:w-1/3 rounded-2xl bg-gray-800 shadow-2xl border-2 border-olive px-8 py-6 flex flex-col items-center justify-center">
+            <Image
+              src={femaleAvt}
+              alt="girl with coffee"
+              className="md:w-44 w-32"
+            />
+            <h4 className="font-semibold text-xl mt-3 text-sage-light">
+              Rupali Haldiya
+            </h4>
+            <p className="truncate ...">Open Source Maintainer</p>
+            <p className="mt-3 text-justify text-gray-300">
+            Full-stack JavaScript Developer | Building LinksHub & OScrew
             </p>
           </div>
           <div className="lg:w-1/3 rounded-2xl bg-gray-800 shadow-2xl border-2 border-olive px-8 py-6 flex flex-col items-center justify-center">
