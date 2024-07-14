@@ -49,7 +49,7 @@ export default function Home() {
       <div className="min-h-screen bg-gradient-to-b from-gray-800 flex justify-between items-center lg:p-24 py-12 px-8 text-white">
         <div className="text-left lg:w-1/2">
           <h3 className="md:text-4xl text-3xl font-bold text-sage md:text-left text-center">
-            <span className="">#</span> What's OScrew..?
+            <span className="">#</span> What&apos;s OScrew..?
           </h3>
           <p className="mt-6 text-md text-gray-300 leading-7 text-justify">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex
