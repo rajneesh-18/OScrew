@@ -32,10 +32,7 @@ export default function Home() {
             <div className="lg:mx-auto mt-4 md:w-3/4 mx-auto">
               {" "}
               <p className="text-lg text-sage">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugit,
-                eum esse dicta blanditiis debitis ullam laborum beatae a tenetur
-                excepturi, voluptate saepe officia similique mollitia
-                exercitationem nihil maxime assumenda rem!
+              Join our vibrant community of open source enthusiasts, developers, and maintainers. OScrew is a platform where you can collaborate on projects, learn from industry experts, and share your own experiences. Whether you're just starting out or you're a seasoned pro, there's a place for you here. Engage in meaningful discussions, contribute to exciting projects, and become a part of a supportive network dedicated to open source excellence.
               </p>
             </div>
 
@@ -52,24 +49,24 @@ export default function Home() {
             <span className="">#</span> What&apos;s OScrew..?
           </h3>
           <p className="mt-6 text-md text-gray-300 leading-7 text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex
-            temporibus reiciendis, fugiat at, dolorem aperiam, aliquam iure
-            dolore nisi reprehenderit delectus fuga quibusdam corrupti nobis
-            hic. Error accusamus sed, inventore molestias neque veniam molestiae
-            laudantium iste, voluptatibus odio nam nisi ea optio quaerat iusto
-            enim cupiditate aperiam quibusdam commodi facere illum ipsam eos
-            quidem excepturi. Repellendus natus ad iusto dicta nam laudantium
-            nemo.
+          OScrew is a dynamic platform designed to foster collaboration and learning within the open source community. 
+          Our mission is to create a space where developers, maintainers, and enthusiasts can come together to share knowledge, contribute to projects, and grow collectively.
           </p>
           <p className="mt-6 text-md text-gray-300 leading-7 text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex
-            temporibus reiciendis, fugiat at, dolorem aperiam, aliquam iure
-            dolore nisi reprehenderit delectus fuga quibusdam corrupti nobis
-            hic. Error accusamus sed, inventore molestias neque veniam molestiae
-            laudantium iste, voluptatibus odio nam nisi ea optio quaerat iusto
-            enim cupiditate aperiam quibusdam commodi facere illum ipsam eos
-            quidem excepturi. Repellendus natus ad iusto dicta nam laudantium
-            nemo.
+          At OScrew, you have the opportunity to connect with top Open Source maintainers and GitHub stars who are eager to share their insights and experiences. 
+          Engage in discussions, ask questions, and learn directly from those who have made significant contributions to the field. 
+          This direct access to experts provides invaluable learning experiences and helps you stay updated with the latest trends and best practices in technology.
+          Collaboration is at the heart of OScrew. 
+          </p>
+          <p className="mt-6 text-md text-gray-300 leading-7 text-justify">
+          Join exciting Open Source projects, contribute your unique skills, and witness your work making a real impact. 
+          By working on diverse projects, you not only enhance your coding skills but also learn the importance of teamwork, problem-solving, and community engagement.
+          OScrew is also a treasure trove of resources. Whether you’re looking for tutorials, articles, or discussions, our platform offers a wealth of information to help you improve your skills and broaden your knowledge. 
+          </p>
+          <p className="mt-6 text-md text-gray-300 leading-7 text-justify">
+          Our community members regularly share their stories, challenges, and successes, creating a rich tapestry of experiences that can inspire and guide newcomers.
+          In essence, OScrew offers a supportive environment where learning and growth are paramount. No matter where you are in your Open Source journey, you’ll find a welcoming community ready to help you succeed. 
+          Join OScrew today and be part of a movement dedicated to Open Source excellence.
           </p>
         </div>
         <div className="w-1/3 min-h-60 lg:block hidden">
@@ -82,9 +79,9 @@ export default function Home() {
           <span className="">#</span> Top Profiles
         </h3>
         <p className="md:w-2/3 text-center mt-4 mb-12 text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quia
-          totam amet consectetur optio, suscipit adipisci. Explicabo rem nobis
-          culpa?
+        Meet the top contributors in the open source community. 
+        These profiles highlight individuals who have significantly impacted through their contributions, mentorship, and leadership. 
+        Explore their stories, learn from their experiences, and get inspired to enhance your own open source journey.
         </p>
 
         <div className="flex lg:flex-row flex-col items-center justify-between gap-4">
@@ -157,9 +154,9 @@ export default function Home() {
           <span className="">#</span> Team OScrew
         </h3>
         <p className="md:w-2/3 text-center mt-4 mb-12 text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quia
-          totam amet consectetur optio, suscipit adipisci. Explicabo rem nobis
-          culpa?
+        Meet the dedicated team behind OScrew. 
+        Our members are passionate about open source and work tirelessly to create a platform that fosters collaboration and learning. 
+        Together, we aim to build a thriving community where everyone can share knowledge and grow.
         </p>
 
         <div className="flex justify-center items-center flex-wrap gap-5">
@@ -181,8 +178,9 @@ export default function Home() {
           <span className="">#</span> Contributors
         </h3>
         <p className="md:w-2/3 text-center mt-2 mb-12 text-gray-300">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quia
-          totam amet consectetur optio.
+        Our contributors are the heart of OScrew. 
+        These individuals bring diverse skills and perspectives, driving the success of our open source projects. 
+        Explore their profiles to learn about their contributions and get inspired by their commitment to the open source community.
         </p>
 
         <div className="flex justify-center items-center flex-wrap gap-5">
